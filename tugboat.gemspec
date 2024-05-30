@@ -25,7 +25,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'faraday_middleware', '0.12.2'
   gem.add_dependency 'faraday', '0.9.2'
   gem.add_dependency 'hashie', '3.5.5'
-  gem.add_dependency 'activesupport', '4.2.9'
+  gem.add_dependency 'activesupport', '5.2.8.1'
 
   gem.add_development_dependency 'rake', '12.0.0'
   gem.add_development_dependency 'rspec-core', '3.6'
